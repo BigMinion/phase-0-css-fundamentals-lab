@@ -3,3 +3,25 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+nav {
+  text-align: center;
+}
+nav a {
+  padding: 10px;
+  background: bisque;
+}
+body {
+  text-align: center;
+}
+#featured-propert p {
+  width: 800px;
+
+}
+#details div {
+  float: left;
+  background-color: crimson;
+  width: 25%;
+}
